@@ -4,6 +4,6 @@ This is a clone of Netflix Website built using React.JS as a Front-end and Fireb
 
 ## SCREENSHOTS
 ![App screenshot](/Users/gurleensmac/Downloads/PROJECT/react/practise/practise/images/image-1.PNG)
-![App screenshot](/Users/gurleensmac/Downloads/PROJECT/react/practise/practise/images/image-2.PNB)
+![App screenshot](/Users/gurleensmac/Downloads/PROJECT/react/practise/practise/images/image-2.PNG)
 
 
